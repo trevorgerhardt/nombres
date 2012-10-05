@@ -1,6 +1,6 @@
 {
   "name": "names"
-, "version": "0.0.1"
+, "version": "0.0.2"
 , "description": "Generate random names."
 , "repo": "trevorgerhardt/names"
 , "keywords": [ "random", "name", "generator" ]
