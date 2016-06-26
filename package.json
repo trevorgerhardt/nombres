@@ -1,13 +1,16 @@
 {
-  "name": "names"
-, "version": "0.1.0"
-, "description": "Generate random names."
-, "repository": {
-    "type": "git"
-  , "url": "git://github.com/trevorgerhardt/names.git"
-  }
-, "keywords": [ "surname", "forename", "random", "name", "generator" ]
-, "main": "index.js"
-, "author": "Trevor Gerhardt"
-, "license": "BSD"
+  "name": "nombres",
+  "version": "0.1.0",
+  "description": "Generate random names.",
+  "repository": "trevorgerhardt/nombres",
+  "keywords": [
+    "surname",
+    "forename",
+    "random",
+    "name",
+    "generator"
+  ],
+  "main": "index.js",
+  "author": "Trevor Gerhardt",
+  "license": "BSD"
 }
